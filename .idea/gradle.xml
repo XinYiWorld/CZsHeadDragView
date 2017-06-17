@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/LibHeadDragView" />
+            <option value="$PROJECT_DIR$/LibSwipeViews" />
             <option value="$PROJECT_DIR$/simple" />
           </set>
         </option>

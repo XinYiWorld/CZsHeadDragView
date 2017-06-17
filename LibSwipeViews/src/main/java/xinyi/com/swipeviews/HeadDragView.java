@@ -1,4 +1,4 @@
-package xinyi.com.headdragview;
+package xinyi.com.swipeviews;
 
 import android.content.Context;
 import android.graphics.Color;

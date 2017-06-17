@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HeadDragView.iml" filepath="$PROJECT_DIR$/HeadDragView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LibHeadDragView/LibHeadDragView.iml" filepath="$PROJECT_DIR$/LibHeadDragView/LibHeadDragView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibSwipeViews/LibSwipeViews.iml" filepath="$PROJECT_DIR$/LibSwipeViews/LibSwipeViews.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple/simple.iml" filepath="$PROJECT_DIR$/simple/simple.iml" />
     </modules>
   </component>

@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import xinyi.com.headdragview.HeadDragView;
+import xinyi.com.swipeviews.HeadDragView;
 
 /**
  * Created by 陈章 on 2017/6/13 0013.
